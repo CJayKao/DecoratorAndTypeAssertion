@@ -1,5 +1,5 @@
 # DecoratorAndTypeAssertion
 
-# insatll: npm i 
-# build: tsc --target ES5 --experimentalDecorators
-# run: node hello.js
+# insatll: npm run insatll  
+# build: npm run build
+# run: npm run start
