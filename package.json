@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "install": "npm i",
+    "build": "tsc --target ES5 --experimentalDecorators",
+    "start": "node hello.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
